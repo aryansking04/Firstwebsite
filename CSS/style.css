@@ -1,0 +1,18 @@
+.contact-container{
+  text-align: center;
+  line-height: 3;
+  padding: 200px;
+  margin-top: 20px;
+  background-color: aquamarine;
+}
+.Email-contact{
+  padding-bottom: 20px;
+  height: 20px;
+  width: 20px;
+}
+.btn-army{
+  background-color: rgb(42, 150, 238);
+  border: 2px solid blue;
+  border-radius: 9px;
+
+}

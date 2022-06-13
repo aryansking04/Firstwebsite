@@ -1,0 +1,98 @@
+body{
+    text-align: center;
+    font-family: verdana,sans-serif;
+}
+
+h1{
+    margin-top: 100px;
+    /* 100% font size is 16px in size
+    means 
+    if we say 90px size 
+    then 90/16 = 562.5% size */
+
+
+    /* Same for em 
+    means 1em = 16px */
+    color: #66bfbf;
+    font-size: 5em;
+    line-height: 2;
+    /* font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Water Brush', cursive;
+    font-family: 'Sacramento', cursive; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr{
+    border-style: dotted none none;
+    width: 100px;
+    border-width: 6px;
+    border-color: red;
+}
+
+.container{
+    position: relative;
+    padding-top: 100px;
+}
+
+div{
+    background-color: #eaf6f6;
+    /* margin: 0px 100px; */
+}
+
+
+.top-cloud{
+    position: absolute;
+    right: 390px;
+    top: 33px;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.para{
+    font-size: 2.5rem;
+    color: #66bfbf;
+}
+h3{
+    color: #11999E;
+}
+h2{
+    font-weight: normal;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+.pubg{
+    width: 40%;
+    margin-right: 20px;
+    float: left;
+}
+
+.price{
+    float: right;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.facebook{
+    width: 25%;
+    height: 160px;
+    width: 160px;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    margin-top: 20px;
+    padding: 20px;
+    height: 102px;
+}
+.footer-link{
+    padding: 15px;
+    font-size: 20px;
+}
+.down-to-bottom{
+    font-size: 12px;
+}
+
