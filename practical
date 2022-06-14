@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Marvellovess</title>
+    <link rel="stylesheet" href="CSS/guns.css" />
+    <link rel="icon" href="https://raw.githubusercontent.com/aryansking04/Firstwebsite/main/images/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&family=Sacramento&family=Water+Brush&display=swap"
+        rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="first">
+            <img class="top-cloud"
+                src="https://raw.githubusercontent.com/aryansking04/Firstwebsite/main/images/cloud.png"
+                alt="Cloud-png" />
+            <h1 id="marvelname">Marellovess</h1>
+            <p class="para">Super Heroes</p>
+            <img class="bottom-cloud"
+                src="https://raw.githubusercontent.com/aryansking04/Firstwebsite/main/images/cloud.png"
+                alt="Cloud-png" />
+            <img src="https://th.bing.com/th/id/R.eb1e6d04f89ca22ce5206a20bae91653?rik=djgV%2f0peA%2bGY7A&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fmarvel-png-download-1153.png&ehk=5NsgUd4nqhI1Tu1eCvH3%2b1bYN3htbaUikADVEbgLf4s%3d&risl=&pid=ImgRaw&r=0"
+                alt="Mountain-PNG" />
+        </div>
+    </div>
+    <hr />
+    <div class="middle-container">
+        <div class="profile">
+            <img class="facebook" src="https://i.pinimg.com/originals/1d/02/67/1d026738e024acc79dc97ddbb9bf3ef1.png"
+                alt="" />
+            <h2>Hello.</h2>
+            <p>
+                Hello Buddy!!
+                It's Stan Lee.
+            </p>
+        </div>
+
+        <hr />
+
+        <div class="skills">
+            <h2>All SuperHeroes</h2>
+            <div class="skill-row">
+                <img class="price"
+                    src="https://th.bing.com/th/id/R.174f9e7c8f50754736cd3998d26a41fb?rik=rLluTvKRHZWv8w&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f15%2fAvengers-Flying-Iron-Man-PNG-File.png&ehk=HZoEY8zv12ofDlaUlwyvFd12z6A%2bSBvwDXCtmJyEyeQ%3d&risl=&pid=ImgRaw&r=0"
+                    alt="" />
+                <a href="https://en.wikipedia.org/wiki/Iron_Man" target="_black">
+                    <h3>Iron man</h3>
+                </a>
+                <p class="cptprice-disc">
+                    Iron Man is a superhero appearing in American comic books published by Marvel Comics. The character
+                    was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by
+                    artists Don Heck and Jack Kirby. The character made his first appearance in Tales of Suspense #39
+                    (cover dated March 1963), and received his own title in Iron Man #1 (May 1968). Also in 1963, the
+                    character founded the Avengers alongside Thor, Ant-Man, Wasp and the Hulk.
+
+                    A wealthy American business magnate, playboy, philanthropist, inventor and ingenious scientist,
+                    Anthony Edward Stark suffers a severe chest injury during a kidnapping. When his captors attempt to
+                    force him to build a weapon of mass destruction, he instead creates a mechanized suit of armor to
+                    save his life and escape captivity. Later, Stark develops his suit, adding weapons and other
+                    technological devices he designed through his company, Stark Industries. He uses the suit and
+                    successive versions to protect the world as Iron Man. Although at first concealing his true
+                    identity, Stark eventually publicly reveals himself to be Iron Man.
+
+                    Initially, Iron Man was a vehicle for Stan Lee to explore Cold War themes, particularly the role of
+                    American technology and industry in the fight against communism. Subsequent re-imaginings of Iron
+                    Man have transitioned from Cold War motifs to contemporary matters of the time.[1]
+
+                    Throughout most of the character's publication history, Iron Man has been a founding member of the
+                    superhero team the Avengers and has been featured in several incarnations of his own various comic
+                    book series. Iron Man has been adapted for several animated television shows and films. In the
+                    Marvel Cinematic Universe, Tony Stark was portrayed by Robert Downey Jr. in the films Iron Man
+                    (2008), The Incredible Hulk (2008), Iron Man 2 (2010), The Avengers (2012), Iron Man 3 (2013),
+                    Avengers: Age of Ultron (2015), Captain America: Civil War (2016), Spider-Man: Homecoming (2017),
+                    Avengers: Infinity War (2018), and Avengers: Endgame (2019), while Mick Wingert voiced the character
+                    in the animated series What If...? (2021).
+
+                    Iron Man was ranked 12th on IGN's "Top 100 Comic Book Heroes" in 2011[2] and third in their list of
+                    "The Top 50 Avengers" in 2012.
+                </p>
+            </div>
+            <div class="skill-row">
+                <img class="pubg"
+                    src="https://th.bing.com/th/id/R.74245b9fa65b938701115b664ed5c5c8?rik=7cTG6Wfa8W3u2w&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fdc8%2fogz%2fdc8ogzbei.png&ehk=gwLVZeXK3sQVahnHBW6CFI2o%2fajGNR1mhLQSJSbRVzI%3d&risl=&pid=ImgRaw&r=0"
+                    alt="" />
+                <h3><a href="https://en.wikipedia.org/wiki/PUBG:_Battlegrounds" target="_blank">Captian America</a>
+                </h3>
+                <p class="pubg-p">
+                    Captain America is a superhero appearing in American comic books published by Marvel Comics. Created
+                    by cartoonists Joe Simon and Jack Kirby, the character first appeared in Captain America Comics #1
+                    (cover dated March 1941) from Timely Comics, a predecessor of Marvel Comics. Captain America was
+                    designed as a patriotic supersoldier who often fought the Axis powers of World War II and was Timely
+                    Comics' most popular character during the wartime period. The popularity of superheroes waned
+                    following the war, and the Captain America comic book was discontinued in 1950, with a short-lived
+                    revival in 1953. Since Marvel Comics revived the character in 1964, Captain America has remained in
+                    publication.
+
+                    The character wears a costume bearing an American flag motif, and he utilizes a
+                    nearly-indestructible shield that he throws as a projectile. Captain America is the alter ego of
+                    Steve Rogers, a frail young artist enhanced to the peak of human perfection by an experimental
+                    "super-soldier serum" after joining the military to aid the United States government's efforts in
+                    World War II. Near the end of the war, he was trapped in ice and survived in suspended animation
+                    until he was revived in modern times. Although Captain America often struggles to maintain his
+                    ideals as a man out of his time, he remains a highly respected figure both with the American public
+                    and in the superhero community, which includes becoming the long-time leader of the Avengers.
+                </p>
+                <a href="heroes.html">Click For more</a>
+            </div>
+        </div>
+
+        <hr />
+
+        <div class="contact-me">
+            <marquee behavior="scroll" direction="left">
+                <h2>Get In Touch</h2>
+            </marquee>
+            <h3>I am a Web developer and a photographer</h3>
+            <a class="btn" href="contact.html" target="_blank">CONTACT ME</a>
+            <hr>
+
+        </div>
+    </div>
+    <a href="Form.html">Click here for Form </a>
+    <div class="bottom-container">
+        <p>
+            Here are some of my social media handles.
+        </p>
+        <a class="footer-link" href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+        <a class="footer-link" href="https://twitter.com/">Twitter</a>
+        <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+        <p class="down-to-bottom">© Aryan Pandey.</p>
+    </div>
+</body>
+
+</html>
